@@ -1,0 +1,405 @@
+header{
+    width:32em;
+    height:6.2em;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 14px;
+}
+.logo{
+    width:15.5em;
+    height:5.2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.N-mail{
+    width:10.2em;
+    height:26px;
+    font-family: 'raleway', coursive;
+    font-size: 2.2em;
+    font-weight: 900;
+}
+button.sign{
+    width:10em;
+    height:2.5em;
+    background-color: #4BA87D;
+    border:none;
+    color:white;
+    font-family: "raleway", coursive;
+    font-size: 1.1em;
+    font-weight: 800;
+    letter-spacing: 2px;
+    border:none;
+}
+.section-1{
+    width:30.1em;
+    height:32.5em;
+    position:relative;
+    margin-left:5px;
+}
+.heading-1{
+    position: absolute;
+    top:10px;
+    left:10px;
+    font-size: 3.6em;
+    font-weight: 900;
+    font-family: "Playfair_Display", coursive;
+    width:284px;
+    height:138px;
+}
+.background{
+    padding-top:51px;
+}
+.create{
+    display:block;
+    width:290px;
+    height:32px;
+    font-family: "raleway", coursive;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.try{
+    width: 143px;
+    height: 40px;
+    background-color:#4BA87D ;
+    color:white;
+    font-family: "raleway", coursive;
+    font-size: 1.3em;
+    font-weight: 900;
+    border:none;
+}
+.get{
+    width: 143px;
+    height: 40px;
+    background-color:white ;
+    color:#4BA87D;
+    font-family: "raleway", coursive;
+    font-size: 1.3em;
+    font-weight: 900;
+    border-color: #4BA87D;
+}
+.buttons{
+    width:30em;
+    height:6em;
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.section-2{
+    margin-top:42px;
+    width: 30.4em;
+    height: 17.1em;
+    position:relative;
+    background-image: url("../assets/photo/slash_black.png");
+    background-size: 351px 350px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-bottom: 33px;
+    margin-left:5px;
+}
+.video-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.vid-heading{
+    width:241px;
+    height:29px;
+    font-family: "Playfair_Display", coursive;
+    font-size: 2.2em;
+    font-weight: 900;
+    color:white;
+    margin-bottom:20px;
+}
+.learn-btn{
+    width: 65px;
+    height: 21px;
+    background-color:white ;
+    color:#4BA87D;
+    font-family: "raleway", coursive;
+    font-size: 0.6em;
+    font-weight: 900;
+    border: none;
+}
+.section-3{
+    background-image: url("../assets/photo/Slanted\ Green\ BG.png");
+    background-size: 450px 802px;
+    background-repeat: no-repeat;
+    background-position: 0px 143px;
+    width:30.2em;
+    height:167em;
+}
+.elements{
+    background-image: url("../assets/photo/floating_elements.png");
+    background-repeat: no-repeat;
+    background-size: 330px 410px;
+    background-position: left center;
+}
+.card-1{
+    width:20.9em;
+    height:29.4em;
+    background-color: white;
+    margin-left:5px;
+}
+.card-text{
+    width:20.9em;
+    height:12.8em;
+}
+.card-p{
+    padding: 17px 20px;
+    font-family: "raleway", coursive;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+.learn{
+    width:164px;
+    height:18px;
+    font-family: "raleway", coursive;
+    font-size: 1.2em;
+    font-weight: 800;
+    color:#4BA87D;
+    padding-left:20px;
+}
+.card-2{
+    width:20.9em;
+    height:29.4em;
+    background-color: white;
+    margin-left:85px;
+    margin-top:15px;
+}
+.sec3-text{
+    width:23.2em;
+    height:20.6em;
+    margin-top:18px;
+}
+.heading-2{
+    display:block;
+    width:232px;
+    height:100px;
+    font-family: "Playfair_Display", coursive;
+    font-weight: 900;
+    font-size: 2.8em;
+    margin-left:36px;
+    margin-bottom:17px;
+}
+.card-text-2{
+    display:block;
+    width:203px;
+    height:96px;
+    font-family: "raleway", coursive;
+    font-size: 1.3em;
+    font-weight: 500;
+    margin-left:37px;
+}
+.section-4{
+    margin-top:47px;
+    margin-left:41px;
+    width:23.9em;
+    height:84.3em;
+}
+.card-3{
+    position:relative;
+    width:22.3em;
+    height:15.7em;
+    margin-bottom:21px;
+}
+.c-text{
+    position: absolute;
+    bottom: 18px;
+    left:17px;
+}
+.name{
+    font-family: "raleway", coursive;
+    color:white;
+    font-size: 2.2em;
+    font-weight: 900;
+}
+.membership{
+    font-family: "raleway", coursive;
+    color:white;
+    font-size:1.2em;
+    font-weight: 700;
+}
+.sec-4-text{
+    margin-top:39px;
+    text-align: center;
+}
+.sec4-text{
+    display:block;
+    width:239px;
+    height:155px;
+    font-family: "Playfair_Display", coursive;
+    font-size: 2.6em;
+    font-weight: 900;
+    text-align: center;
+}
+.input{
+    width:22.3em;
+    height:11.1em;
+}
+input{
+    width:223px;
+    height:42px;
+    padding: 13px 14px;
+    border-color:#9F9F9F ;
+    border-radius: 1px;
+    font-family: "raleway", coursive;
+}
+.email{
+    display:block;
+    font-family: "raleway", coursive;
+    font-size: 1.2em;
+    font-weight: 500;
+    color:#4BA87D;
+    margin-left:53px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.join-list{
+    width: 144px;
+    height: 42px;
+    background-color:#4BA87D ;
+    color:white;
+    font-family: "raleway", coursive;
+    font-size: 1.3em;
+    font-weight: 900;
+    letter-spacing: 1px;
+    margin-left:39px;
+    border:none;
+}
+.section-5{
+    width:28.1em;
+    height:24.2em;
+    margin-top:54px;
+    margin-left:20px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.sec5-text{
+    display:block;
+    width:281px;
+    height:110px;
+    font-family: "Playfair_Display", coursive;
+    font-size: 2.6em;
+    font-weight: 900;
+}
+.sec5-logos{
+    width:23.7em;
+    height:13.7em;
+    margin-left:21px;
+}
+.Logo2{
+    padding-left: 50px;
+}
+.Logo3{
+    padding-top:29px;
+}
+.Logo4{
+    padding-left: 30px;
+}
+.Logo5{
+    padding-top: 20px;
+}
+.section-6{
+    width:32em;
+    height:29em;
+    background-color: #4BA87D;
+    text-align: center;
+}
+.sec6-text{
+    display:block;
+    width:259px;
+    height:127px;
+    padding-top: 43px;
+    padding-left: 43px;
+    font-family: "Playfair_Display", coursive;
+    font-size: 4.2em;
+    font-weight: 900;
+    color:white;
+}
+.pick-btn{
+    width: 131px;
+    height: 42px;
+    background-color:white ;
+    color:#4BA87D;
+    font-family: "raleway", coursive;
+    font-size: 1.3em;
+    font-weight: 900;
+    letter-spacing: 1px;
+    margin-top:55px ;
+    border:none;
+}
+footer{
+    width:32em;
+    height:48.6em;
+    padding-left: 17px;
+    padding-top: 40px;
+}
+.footer-logo{
+    width:12.7em;
+    height:3.73em;
+    display:flex;
+    align-items: center;
+}
+.f-logo{
+    width:6em;
+    height:3em;
+}
+.footer-N-mail{
+    width:7.5em;
+    height: 19px;
+    font-family: "raleway", coursive;
+    font-size: 1.6em;
+    font-weight: 900;
+}
+.footer-links1{
+    width:21.1em;
+    height:21.5em;
+    display:flex;
+    justify-content: space-between;
+}
+.list-item{
+    font-family: "raleway", coursive;
+    font-size: 1.2em;
+    font-weight: 700;
+    line-height: 14px;
+    padding-bottom: 7px;
+}
+.divider{
+    width:28.6em;
+    height:1px;
+    margin-left: 17px;
+    background-color: #DBDBDB;
+}
+.origin{
+    display:block;
+    margin-top: 22px;
+    margin-bottom: 14px;
+    width:186px;
+    height:53px;
+    font-family: "raleway", coursive;
+    font-weight: 700;
+    font-size: 0.9em;
+    line-height: 19px;
+}
+.footer-links2{
+    width:8.4em;
+    height:3.1em;
+}
+.terms{
+    display:block;
+    font-family: "raleway", coursive;
+    font-size: 0.9em;
+    font-weight: 700;
+    line-height: 11px;
+    margin-bottom: 9px;
+}
+nav{
+    display: none;
+}

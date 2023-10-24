@@ -1,0 +1,228 @@
+@media all and (min-width:768px){
+    
+    body{
+        align-items: center;
+    }
+    header{
+        width:76.8em;
+        text-align: center;
+    }
+    nav{
+        display: block;
+    }
+    .header-list{
+        display:flex;
+        justify-content: space-between;
+        width:31.3em;
+    }
+    .navBtn{
+        width:44.3em;
+        height:2.5em;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .h-list-item{
+        font-family: "raleway", coursive;
+        font-size: 1.1em;
+        font-weight: 800;
+        line-height: 13px;
+    }
+    .header-link::after {
+        content: "";
+        display: block;
+        border-bottom:3px solid #4BA87D;
+        width:71px;
+    }
+    .section-1{
+        margin-top:50px;
+        width:71.1em;
+        height:25em;
+        margin-left:40px;
+        position: relative;
+    }
+    .hero-text{
+        width:31.5em;
+        height:20.8em;
+        position: absolute;
+        top:20px;
+    }
+    .heading-1{
+        position: static;
+        font-size: 3.8em;
+        line-height: 46px;
+        width:315px;
+        height:92px;
+    }
+    .create{
+        margin-top: 17px;
+        margin-bottom:25px;
+    }
+    .background{
+        margin-left:266px;
+        width:44.5em;
+        height:25em;
+        padding:0;
+    }
+    .buttons{
+        height:30px
+    }
+    .section-2{
+        width:61.6em;
+        height:34.7em;
+        margin-top:110px;
+        margin-left: 65px;
+    }
+    .video-img{
+        width:61.6em;
+        height:34.7em;
+    }
+    .video-text{
+        width:41.5em;
+        height:17em;
+    }
+    .vid-heading{
+        font-size: 3.8em;
+        width:415px;
+    }
+    .learn-btn{
+        width: 132px;
+        height: 42px;
+        margin-top:45px;
+        font-size: 1.3em;
+    }
+    .section-3{
+        width:71em;
+        height:78em;
+        background-image: none;
+    }
+    .sec-3{
+        display:flex;
+    }
+    .card-1{
+        margin-left:15px;
+    }
+    .card-2{
+        margin-left:20px;
+        margin-top:60px;
+    }
+    .sec3-text{
+        margin-top: 90px;
+    }
+    .section-4{
+        margin-top:100px;
+        width:70.8em;
+        height:34.5em;
+    }
+    .cards{
+        display:flex;
+        justify-content: space-between;
+    }
+    .sec4-text{
+        width:591px;
+        height:89px;
+        font-size: 2.8em;
+        line-height: 36px;
+    }
+    .input{
+        width:43.6em;
+        height:7em;
+        margin-left: 135px;
+        display:flex;
+
+    }
+    .nput{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    .section-5{
+        width:61.7em;
+        height:13.8em;
+        margin-left:76px;
+        align-items: center;
+    }
+    .sec5-text{
+        width:317px;
+        height:110px;
+        font-size: 2.8em;
+        line-height: 36px;
+    }
+    .sec5-logos{
+        width:60.5em;
+        height:3.1em;
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: baseline;
+        justify-content: space-between;
+    }
+    .text-t{
+        margin-left:130px;
+    }
+    .section-6{
+        width:76.8em;
+        height:24em;
+        text-align: center;
+    }
+    .sec6-text{
+        width:730px;
+        height:81px;
+    }
+    footer{
+        width:76.8em;
+        height:28.6em;
+    }
+    .footing{
+        display:flex;
+        justify-content: space-between;
+    }
+    .footer-links1{
+        width:36.8em;
+        height:13.1em;
+        display:flex;
+        justify-content: space-between;
+    }
+    .links-1{
+        display: flex;
+        justify-content: space-between;
+        width:16.2em;
+    }
+    .divider{
+        width:71.1em;
+    }
+    .footer-2{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .origin{
+        width:333px;
+        height:11px;
+    }
+    .footer-links2{
+        width:17.4em;
+        height:1.1em;
+        display:flex;
+        justify-content: space-between;
+    }
+    .green-background{
+        background-image: url("../assets/photo/Slanted Green BG-M.png");
+        background-size: 941px 692px;
+        background-repeat: no-repeat;
+        background-position: right center;
+        width:77.8em;
+    }
+    .slash{
+        width:77.8em;
+        height:38.7em;
+        background-image: url("../assets/photo/slash_blackM.png");
+        background-position: top left;
+    }
+    .elements-M{
+        width:77.3em;
+        height:153em;
+        background-image: url("../assets/photo/floating_elementsM.png");
+    }
+}
